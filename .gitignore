@@ -1,0 +1,19 @@
+# Arduino & ESP32 build artifacts
+build/
+.cache/
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini

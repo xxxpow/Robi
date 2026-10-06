@@ -1,5 +1,7 @@
 #include "AudioModule.h"
 
+// esto es un comentario 
+
 AudioModule::AudioModule()
   : _serial(2),
     _reproduciendo(false),
